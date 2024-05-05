@@ -1,5 +1,6 @@
 # LiDAR LDS-006
 
+<img src="./pict/LDS-006_1.jpg" width="200">     <img src="./pict/LDS-006_2.jpg" width="200">
 
 # Pinout
 - Red = 5V
